@@ -17,22 +17,19 @@ systems administrators. In these cross-functional teams, I help to design and
 implement full-stack software architectures for science data processing,
 publication and archival, and analysis and visualization.
 
-[View my resume](./stafford_resume.pdf).
+📄 [View my resume](./stafford_resume.pdf)
 
-Topics of interest to me include:
+💡 Topics of interest to me include:
 
-* Building tools with Python to facilitate understanding of complex science data
-* Geographic Information Systems (GIS)
-* Remote Sensing
-* Open Source / Open Science
-* Reproducibility in science
-* Earth science (especially about the cryosphere!)
+* ⚙️ Building tools with Python to facilitate understanding of complex science data
+* 🌎 Geographic Information Systems (GIS)
+* 🛰️ Remote Sensing and Earth Science (especially related to the cryosphere!)
+* 🔓 Open Source / Open Science and reproducibility in science
 
-In my free time, I enjoy:
+🌴 In my free time, I enjoy:
 
 * ️✈️ Traveling
 * 🏕️ Hiking and backpacking
 * 🌱 Gardening
 * 🪁 Flying kites
-* 🍽️ Cooking
 * 🎹 Making music with [modular synthesizers](https://en.wikipedia.org/wiki/Modular_synthesizer)
