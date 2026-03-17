@@ -17,6 +17,8 @@ systems administrators. In these cross-functional teams, I help to design and
 implement full-stack software architectures for science data processing,
 publication and archival, and analysis and visualization.
 
+[View my resume](./stafford_resume.pdf).
+
 Topics of interest to me include:
 
 * Building tools with Python to facilitate understanding of complex science data
