@@ -32,3 +32,4 @@ DAAC](https://nsidc.org/data/data-programs/nsidc-daac)'s data publication teams.
 * 🌱 Gardening
 * 🪁 Flying kites
 * 🎹 Making music with [modular synthesizers](https://en.wikipedia.org/wiki/Modular_synthesizer)
+*️ 📻 [Amateur (ham) radio](https://en.wikipedia.org/wiki/Amateur_radio)
